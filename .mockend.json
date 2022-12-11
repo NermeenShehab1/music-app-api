@@ -1,4 +1,5 @@
-[
+{
+  "charts_world": [
   {
     "layout": "5",
     "type": "MUSIC",
@@ -3962,4 +3963,4 @@
     "highlightsurls": {},
     "properties": {}
   }
-];
+]};
